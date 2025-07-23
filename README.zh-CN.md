@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python 版本">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="许可证">
+  <img src="https://img.shields.io/badge/License-GPL-green.svg" alt="许可证">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="平台">
 </p>
 
@@ -104,10 +104,8 @@ python multiprocess_generator.py
 
 如果您觉得这个项目对您有帮助，并希望支持后续的开发，欢迎向以下地址捐赠。感谢您的支持！
 
-*   **ETH/BSC/Polygon (EVM):** `0x...`
-*   **TRON (TRC20):** `T...`
-*   **BTC:** `bc1...`
+*   **ETH:** `0x888888cFcD5aD452F18330ea2686c9389d57A32e`
 
 ### 📜 许可证
 
-本项目基于 MIT 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
+本项目基于 GPL3 许可证。详情请参阅 [LICENSE](LICENSE) 文件。
