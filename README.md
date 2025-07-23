@@ -104,10 +104,8 @@ The program will start and begin searching using all your CPU cores. Once a matc
 
 If you find this project helpful and would like to support its development, you can send a donation to the following addresses. Thank you for your support!
 
-*   **ETH/BSC/Polygon (EVM):** `0x...`
-*   **TRON (TRC20):** `T...`
-*   **BTC:** `bc1...`
+*   **ETH:** `0x888888cFcD5aD452F18330ea2686c9389d57A32e`
 
 ### 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL3 License. See the [LICENSE](LICENSE) file for details.
